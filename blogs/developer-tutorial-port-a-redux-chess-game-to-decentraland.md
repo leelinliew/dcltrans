@@ -176,7 +176,7 @@ mkdir assets
 
 (If you want, you can find all of these assets [here][13].)
 
-（如果你愿意，你可以在[这里][13]找到所有这些资产。）
+（如果你愿意，你可以在[这里][13]找到所有这些资产。）
 
 Once all the models have been placed in the `assets` folder we can back up to the server's folder:
 
@@ -257,7 +257,7 @@ The second thing we have to do is figure out the color of the tile, which will a
 *如果正方形上有棋子，玩家可以吃掉它，所以我们将它设为 _red_。
 * If the square is in check we will make it _orange_.
 
-* 如果此正方形被将军，我们设为 _orange_。
+* 如果此正方形被将军，我们设为 _orange_。
 
 Before rendering the actual tile, let's add a `modelsById` map at the top of our file that maps each `pieceId` to the corresponding model, like this:
 
@@ -412,12 +412,12 @@ We simply check if the client that wants to unregister is one of the two active 
 
 Finally, we handle the "checkmate" action:
 
-最后，我们处理“将死”操作：
+最后，我们处理“将死”操作：
 
 
 So, now our server is capable of registering which players are currently playing. We can plug this new reducer into our store (this is `src/store`):
 
-所以，现在我们的服务器能够注册当前正在游戏的玩家。我们可以将这个新的 reducer 插入我们的 store（这是 `src/store` ）：
+所以，现在我们的服务器能够注册当前正在游戏的玩家。我们可以将这个新的 reducer 插入我们的 store（这是 `src/store` ）：
 
 The last thing we need to do on the Redux side is to modify the `Analysis Middleware` to handle the "checkmate" action:
 
@@ -480,7 +480,7 @@ Now we can check to see either of the two "register" queens have been clicked on
 
 Finally, if the `elementId` doesn't match any of the "register" queens, we can dispatch a `squareClick` event, but only after checking that it is this client's turn:
 
-最后，如果 `elementId` 与任何​​“注册”的皇后都不匹配，我们可以调用一个 `squareClick` 事件，但只有是在轮到这个玩家之后：
+最后，如果 `elementId` 与任何“注册”的皇后都不匹配，我们可以调用一个 `squareClick` 事件，但只有是在轮到这个玩家之后：
 
 Finally let's add a `` that lets the players know whose turn it is, and announces when there's a "checkmate".
 
