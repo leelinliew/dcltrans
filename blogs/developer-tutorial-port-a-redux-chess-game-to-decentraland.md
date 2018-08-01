@@ -124,7 +124,7 @@ If you don't want to deal with replacing all of those aliases, and just want to 
 
 **Diff: **To see the full diff of changes for this step check [this commit][12].
 
-**Diff：** 要查看此步骤的完整差异，请看[此提交][12]。
+**Diff：** 要查看此步骤的完整差异，请看[此提交][12]。
 
 **Fast-Forward:** to jump to the end of this step, run:
 
@@ -218,7 +218,7 @@ This method will receive each `square` and its index (which goes from 0 to 63). 
 
 * If the tile is selected
 
-* 有没有选择这个格子
+* 有没有选择这个格子
 
 * If the tile is highlighted
 
@@ -315,7 +315,7 @@ npm start
 
 That will start our server, which we must keep running. On a second terminal window, go to the `scene` directory and start the SDK preview:
 
-这将启动我们的服务器，它将一直运行。在第二个终端窗口，转到 `scene` 目录并启动 SDK 预览：
+这将启动我们的服务器，它将一直运行。在第二个终端窗口，转到 `scene` 目录并启动 SDK 预览：
 
 
 cd ..
@@ -341,7 +341,7 @@ From your web browser, open `http://localhost:8000` and you should see the board
 
 It's no fun to play chess by yourself, so in this last step we will modify the server so that it:
 
-自已跟自己下棋是没有意思的，所以在最后一步中我们将修改服务器：
+自已跟自己下棋是没有意思的，所以在最后一步中我们将修改服务器：
 
 * Keeps track of which clients are playing
 
