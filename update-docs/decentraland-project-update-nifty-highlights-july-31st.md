@@ -65,7 +65,7 @@ Our Experience Architect, Chris Chapman (aka m3mnoch on Discord) sat down with L
 
 #### [**Panel: Conversation on the Creative Industry with&nbsp;NFTs**][7]
 
-#### [**专题小组：关于 NFT 的创意产业会谈**] [7]
+#### [**专题小组：关于 NFT 的创意产业会谈**][7]
 
 NFTs are both creating new avenues for artistic expression and giving creatives more control over the art that they create.
 
@@ -77,7 +77,7 @@ Watch this panel with Simon De la Rouviere, Engineer of Societies at ConsenSys, 
 
 #### [**Keynote: Intellectual Property and Licensing NFTs**][8]
 
-#### [**主题演讲：知识产权与许可 NFT **] [8]
+#### [**主题演讲：知识产权与许可 NFT **][8]
 
 Rare digital art in the form of NFTs present many new opportunities for branding, along with some interesting challenges related to intellectual property and licensing of digital goods
 
