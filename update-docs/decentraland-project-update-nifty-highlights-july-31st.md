@@ -1,7 +1,7 @@
 
 # Decentraland Project Update &amp; NIFTY Highlights — July&nbsp;31st
 
-# Decentraland 项目更新及 NIFTY 精彩集锦 -  7月31日
+# Decentraland 项目更新及 NIFTY 精彩集锦 -  7月31日
 
 ## The latest news from Decentraland, plus highlights from the NIFTY Conference!
 
@@ -65,7 +65,7 @@ Our Experience Architect, Chris Chapman (aka m3mnoch on Discord) sat down with L
 
 #### [**Panel: Conversation on the Creative Industry with&nbsp;NFTs**][7]
 
-#### [**专题小组：关于 NFT 的创意产业会谈 **] [7]
+#### [**专题小组：关于 NFT 的创意产业会谈**] [7]
 
 NFTs are both creating new avenues for artistic expression and giving creatives more control over the art that they create.
 
