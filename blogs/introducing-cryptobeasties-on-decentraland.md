@@ -1,7 +1,7 @@
 
 # Introducing CryptoBeasties on Decentraland
 
-＃ Decentraland 的 CryptoBeasties 介绍
+# Decentraland 的 CryptoBeasties 介绍
 
 ## CryptoBeasties is building a 3D rendition of their blockchain-based collectible card game for the Decentraland platform!
 
