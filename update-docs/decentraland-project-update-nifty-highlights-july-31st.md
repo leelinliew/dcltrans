@@ -135,7 +135,7 @@ The team behind [Last of Ours][16] has built a crypto-collectible economy that d
 
 **How does this work?**
 
-**它是如何工作的？**
+**它是如何操作的？**
 
 Users adopt animals in the real world by purchasing LAST tokens representing those animals and sponsoring monthly "maintenance" for the individual and its habitat. By sourcing data sets from organizations around the world, Last of Ours is able to guarantee an accurate representation of the health of these populations and ecosystems, reflected in their digital renditions. Players can use their LAST NFTs as avatars within Decentraland to help build awareness and demonstrate their support for the project.
 
