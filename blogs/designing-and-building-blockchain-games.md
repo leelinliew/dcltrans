@@ -1,7 +1,7 @@
 
 # Designing and Building Blockchain Games
 
-＃设计和构建区块链游戏
+# 设计和构建区块链游戏
 
 ## What are blockchain games, and how are they different from traditional games?
 
