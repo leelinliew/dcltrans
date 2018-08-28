@@ -20,7 +20,7 @@ so will it be a virtual paradise? or a crypto property bubble?
 
 它会成为虚拟世界的天堂？还是加密资产泡沫？
 
-In Decentraland users can build whatever they can imageine on plots of virtual land.
+In Decentraland users can build whatever they can imagine on plots of virtual land.
 
 在 Decentraland，用户可以在虚拟土地上构建他们可以想象的任何东西。
 
@@ -30,7 +30,7 @@ the world has been set up by Argentinian developers. And its first city is made 
 
 At auction people paid more than $28 million for plots making it the largest ever sale of virtual land. Sam Clare was one of those who paid for a plot.
 
-在拍卖中，人们为虚拟土地支付了超过 2800 万美元，使其成为有史以来最大的虚拟土地销售额。Sam Clare 也是为土地付费的其中之一。
+在拍卖中，人们为虚拟土地支付了超过 2800 万美元，使其成为有史以来最大的虚拟土地销售额。Sam Clare 也是为土地付费的其中一人。
 
 I'd watched a film about virtual reality and I like the idea of owning virtual land. I also wanted a platform where I can go and mess around and play about with virtual reality. Sam's plot is in the north-west of the city and cost around $900.
 
@@ -52,13 +52,13 @@ It'll be pretty much exactly the same as Facebook. Except you'll be able to hear
 
 它与 Facebook 几乎完全一样。除了你能够在 VR 中听到和看到对方。所以更多的是一种真实的体验。只要我们有互联网，并戴上头盔。我将能够让朋友来到我 Decentraland 的家里。或者我可以去他们的房子里喝一杯虚拟茶。
 
-The record price for a square of land os far is $180,000. Paid for a plot near the city's central plaza where virtual visitors first arrive. That's made people who bought land early on question just how much it might be worth now.
+The record price for a square of land is far is $180,000. Paid for a plot near the city's central plaza where virtual visitors first arrive. That's made people who bought land early on question just how much it might be worth now.
 
-一块广场土地的创纪录价格是 180,000 美元。一个玩家首先出现的城市中央广场附近。这使得那些早期购买土地的人质疑现在土地的价值。
+一块广场土地的创纪录价格是 180,000 美元。那块地出现在城市中央广场附近，也是玩家首先先踏入的部位。现在不可想像同样的土地的价值会是多少。
 
 How high would the price have to get for you to sell that land? I'm not selling it until it's worth at least $10 million.
 
-这块土地你卖多高价格？我不卖它，直到它至少值 1000 万美元。
+这块土地你愿意卖多高价格？我不卖它，直到它至少值 1000 万美元。
 
 - 10 million?
 
@@ -106,11 +106,11 @@ But the amount of money people are investing doesn't mean the world will be a su
 
 What matters really is will it be a good game that people want to play. They've got some talented people involved and they are gamers themselves. I'm sure that they won't try to create something bad. And it should at least be half decent. But we'll see if it really captures the imagination. If people who do not give a hoot about blockchains want to play the game. That will be the measure of whether this has been a success.
 
-真正重要的是它会不会是一款人们想玩的好游戏。有一些天才加入此项目，而且他们自己也是游戏玩家。我相信他们不会想要创造一个不好的世界。它至少应该有一半是很好的。但我们会看到它是否真的抓住了想象力。那些对区块链不感兴趣的人想不想玩这个游戏，这是衡量游戏是否成功的关键。
+真正重要的是它会不会是一款人们想玩的好游戏。有一些天才加入此项目，而且他们自己也是游戏玩家。我相信他们不会想要创造一个不好的世界。它至少应该有一半是很好的。但我们会看到它是否真的抓住了想象力。那些对区块链不感兴趣的人也想想玩这个游戏，这是衡量游戏是否成功的关键。
 
 To try and attract visitors there are plans to build themed neighbourhoods. Thing like Festival Land, Vegas City and even a university. They're currently being built up by virtual artists. But the creators are giving BBC Trending a sneak peek of what the city will look like when it launches.
 
-为了吸引游客，他们计划建立主题社区。虚拟艺术家正在创建如同 Festival Land (购物中心）、拉斯维加斯城甚至大学一样的社区。创建者们给了 BBC 趋势一个前期预览，看看这个城市在启动时会是什么样子。
+为了吸引访客，他们计划建立主题社区。虚拟艺术家正在创建如同 Festival Land (购物中心）、拉斯维加斯城甚至大学一样的社区。创建者们给了 BBC 趋势一个前期预览，看看这个城市在启动时会是什么样子。
 
 Right, woah.
 
@@ -122,7 +122,7 @@ I seem to be on some sort of dancefloor. I can hear music. It's very colourful. 
 
 So that the world will load properly on VR headsets and desktop browsers. developers are using these blocky,retro-looking graphics to build bu their land. And unlike other virtual worlds once you've built it, no one can knock it down.
 
-虚拟世界可以在 VR 和桌面浏览器上加载显示。开发人员正在使用这些块状、复古的图形来构建自己的土地。与其他虚拟世界不同，一旦建立，没人能把它“打倒”。
+虚拟世界可以在 VR 和桌面浏览器上加载显示。开发人员正在使用这些块状、复古的图形来构建自己的土地。与其他虚拟世界不同，在这里一旦建立，没人能把它“打倒”。
 
 In other virtual worlds it's usually operated by a central company, And all the land, all the content resides in their servers. So users have the risk that if the company goes out of business or if they decide to change the rules. Users are at risk of losing all the content and all the creations that they have built.
 
@@ -138,7 +138,7 @@ They want to make a world where you're completely free to do whatever you want w
 
 The content that is uploaded by users cannot be removed by anyone. Not even ourselves or a government. However people get the chance to see certaion content and filter out others. So ultimately there will be filters that will be set up by the community.
 
-任何人都无法删除用户上传的内容。即使我们自己或政府。然而，人们可以看到一些内容并过滤掉其他内容。最终社区将建立内容过滤器。
+任何人都无法删除用户上传的内容。即使我们自己或政府。然而，人们可以看到一些内容并过滤掉其他内容。最终社区将自己建立内容过滤器。
 
 The plan is for users to spend MANA on goods and experiences in the world when it's all built.
 
@@ -150,8 +150,8 @@ Right now we've got an economy of around a couple of tens of millions of dollars
 
 Sam's optimistic that there will be enough visitors for his virtual plot of land to trun a real profit. I'm planning on building a virtual reality art gallery I have a lot of friends that are artists. And I'd like to set up a system where they can showcase their art. Someone can come along, buy that art. Then maybe I get a cut, maybe Decentraland get a cut and they get their cut of course.
 
-Sam 乐观地认为，他的虚拟土地将有足够的游客来获得真正的利润。我打算建立一个虚拟现实艺术画廊我有很多朋友都是艺术家。我想建立一个可以展示他们艺术的系统。有人可以过来购买艺术品。然后也许我会得到点利润，也许当然 Decentraland 也能得到利润。
+Sam 乐观地认为，他的虚拟土地将有足够的访客来获得真正的利润。我打算建立一个虚拟现实艺术画廊我有很多朋友都是艺术家。我想建立一个可以展示他们艺术的系统。有人可以过来购买艺术品。然后也许我会得到点利润，也许当然 Decentraland 也能得到利润。
 
 Cryptocurrency based investments have proved to be extremely volatile. So should the advice be buyer beware? All of this could go to zero. They're the riskiest investments in the whole world. I would think that the best way to think if it is more like a kickstarter or something Where you're not buying a product. But you're throwing money at someone's idea because you really want it to happen.
 
-事实证明，基于加密货币的投资极不稳定。那么建议买家要小心吗？所有这一切都可能归零。它们是全世界风险最高的投资。我认为最好的方式是把它当成类似 kickstarter 的众筹或者你并不是在买产品，而是真的为实现别人的想法而投钱。
+事实证明，基于加密货币的投资极不稳定。那么建议买家要小心吗？所有这一切都可能归零。它们是全世界风险最高的投资。我认为最好的方式是把它当成类似 kickstarter 的众筹或者你并不是在买产品，而是真的为实现别人的想法而投钱，因为你真的想让它实践。
